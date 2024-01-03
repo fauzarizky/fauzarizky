@@ -1,7 +1,8 @@
 # Hi, I'm Rizky!
 
-# 💫 About Me:
-🧑🏻‍💻 Fullstack Web Developer Student At Purwadhika Digital Technology School
+## 💫 About Me:
+🧑🏻‍💻 Fullstack Web Developer Student At Purwadhika Digital Technology School <br/>
+💼 [Portfolio](https://fauzarizky.github.io/rizky-portfolio/)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
