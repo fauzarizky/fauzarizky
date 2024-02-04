@@ -1,7 +1,7 @@
 # Hi, I'm Rizky!
 
 ## 💫 About Me:
-🧑🏻‍💻 Fullstack Web Developer Student At Purwadhika Digital Technology School <br/>
+🧑🏻‍💻 Jr Frontend Web Developer (Graduated at Purwadhika Digital Technology School with 81.51) <br/>
 💼 [Portfolio](https://fauzarizky.github.io/rizky-portfolio/)
 
 <div align="left">
