@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🧑🏻‍💻 Jr Frontend Web Developer (Graduated at Purwadhika Digital Technology School with 81.51 Score) <br/>
-💼 [Portfolio](https://fauzarizky.github.io/rizky-portfolio/)
+💼 [Portfolio](https://fauzarizky.github.io)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
