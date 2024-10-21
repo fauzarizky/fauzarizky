@@ -1,7 +1,7 @@
 # Hi, I'm Rizky!
 
 ## 💫 About Me:
-🧑🏻‍💻 Jr Frontend Web Developer (Graduated at Purwadhika Digital Technology School with 81.51 Score) <br/>
+🧑🏻‍💻 Jr Web Developer (Graduated at Purwadhika Digital Technology School with 81.51 Score) <br/>
 💼 [Portfolio](https://fauzarizky.github.io)
 
 <div align="left">
